@@ -7,6 +7,8 @@ The informed version of the RRT* algorithm has the same performance as the RRT* 
 
 
 ### Assumption:
+
+* Iteration: 200   
 * startpoint: {0, 0}
 * endpoint: {5, 10}
 * obstacles (x, y, radius): {  { 5, 5, 0.5 },
@@ -15,7 +17,7 @@ The informed version of the RRT* algorithm has the same performance as the RRT* 
                                { 1, 5, 1 },
                                { 3, 6, 1 },
                                { 7, 9, 1 }  }                                  
-* maximum iteration: 200    
+ 
 
 
 ### Result:
@@ -25,6 +27,10 @@ The informed version of the RRT* algorithm has the same performance as the RRT* 
 * Distance between [startpoint] to [endpoint]
 
 
-
-
 ![mygif](https://user-images.githubusercontent.com/64426415/138770308-f9db802d-dbc3-4161-80bc-5e63c47c71e0.gif)
+
+
+![ResultPic](https://user-images.githubusercontent.com/64426415/138771960-e19b0edb-62a0-4371-a485-74be5196d771.JPG)
+
+
+
