@@ -1,5 +1,5 @@
 # Informed RRT*
-Developing Informed Rapidly-exploring Random Tree-star with C# Programming.
+I have developed an Informed Rapidly-exploring Random Tree-star with C# Programming.
 
 it is an algorithm that aims to achieve the shortest path by generating a tree from the [startpoint] to the [endpoint] without colliding with obstacles.
 
