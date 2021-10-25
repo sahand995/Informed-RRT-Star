@@ -19,6 +19,11 @@ The informed version of the RRT* algorithm has the same performance as the RRT* 
 
 
 ### Result:
+
+* All nodes
 * Path's List
 * Distance between [startpoint] to [endpoint]
 
+
+
+![mygif](https://user-images.githubusercontent.com/64426415/138770308-f9db802d-dbc3-4161-80bc-5e63c47c71e0.gif)
