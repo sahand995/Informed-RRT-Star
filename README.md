@@ -22,7 +22,7 @@ The informed version of the RRT* algorithm has the same performance as the RRT* 
 
 ### Result:
 
-* All nodes
+* Position of all Nodes and their Parents
 * Path's List
 * Distance between [startpoint] to [endpoint]
 
@@ -30,6 +30,7 @@ The informed version of the RRT* algorithm has the same performance as the RRT* 
 ![mygif](https://user-images.githubusercontent.com/64426415/138770308-f9db802d-dbc3-4161-80bc-5e63c47c71e0.gif)
 
 
+![ResultPic](https://user-images.githubusercontent.com/64426415/138839277-12488813-5073-4936-88af-c7ee8eab0182.JPG)
 
 
 
