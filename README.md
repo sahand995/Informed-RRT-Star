@@ -9,8 +9,8 @@ The informed version of the RRT* algorithm performs the same as the RRT* until a
 ### Assumption:
 
 * Iteration: 200   
-* startpoint: {0, 0}
-* endpoint: {5, 10}
+* startpoint: (0, 0)
+* endpoint: (5, 10)
 * obstacles (x, y, radius): {  { 5, 5, 0.5 },
                                { 9, 6, 1 },
                                { 7, 5, 1 },
